@@ -5,7 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_eth17/)
 
 ![LucasFelix013 GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFelix013&show_icons=true&theme=dark)
-
 [![LucasFelix013 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelix013&layout=dark)](https://github.com/LucasFelix013/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia 
