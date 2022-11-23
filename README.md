@@ -6,7 +6,7 @@
 
 ![LucasFelix013 GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFelix013&show_icons=true&theme=dark)
 
-[![LucasFelix013 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelix013&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![LucasFelix013 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelix013&layout=dark)](https://github.com/LucasFelix013/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia 
 
